@@ -19,7 +19,7 @@ $ npm run generate
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
-どのように機能するかについての詳しい説明は、[ドキュメント](https://nuxtjs.org)をご覧ください。  
+【訳】どのように機能するかについての詳しい説明は、[ドキュメント](https://nuxtjs.org)をご覧ください。  
 
 ## Special Directories
 

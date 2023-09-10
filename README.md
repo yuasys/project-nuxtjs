@@ -54,9 +54,11 @@ More information about the usage of this directory in [the documentation](https:
 
 ### `pages`
 
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
+This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.  
+【訳】このディレクトリには、アプリケーションのビューとルートが含まれます。Nuxtはこのディレクトリ内のすべての*.vueファイルを読み込み、Vue Routerを自動的にセットアップします。  
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).  
+【訳】このディレクトリの使い方については、[ドキュメント](https://nuxtjs.org/docs/2.x/directory-structure/routing)を参照してください。
 
 ### `plugins`
 

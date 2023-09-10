@@ -29,7 +29,9 @@ You can create the following extra directories, some of which have special behav
 
 ### `assets`
 
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
+The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.  
+
+【訳】assets ディレクトリには、Stylus や Sass ファイル、画像、フォントなどのコンパイルされていないアセットが含まれます。（訳注：Stylusとはブラウザ拡張機能の一つです）
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
 

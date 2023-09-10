@@ -43,7 +43,7 @@ The components directory contains your Vue.js components. Components make up the
 
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).  
-【訳】訳】このディレクトリの使い方については、[ドキュメント](https://nuxtjs.org/docs/2.x/directory-structure/components)を参照してください。
+【訳】このディレクトリの使い方については、[ドキュメント](https://nuxtjs.org/docs/2.x/directory-structure/components)を参照してください。
 
 ### `layouts`
 

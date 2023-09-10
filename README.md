@@ -1,9 +1,9 @@
 # project-nuxtjs
 
-## Build Setup
+## Build Setup ビルド・セットアップ
 
 ```bash
-# install dependencies
+# install dependencies 依存関係をインストール
 $ npm install
 
 # serve with hot reload at localhost:3000
@@ -23,7 +23,9 @@ For detailed explanation on how things work, check out the [documentation](https
 
 ## Special Directories
 
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
+You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.  
+
+【訳】以下の追加ディレクトリを作成することができ、そのうちのいくつかは特別な動作をします。必要なのはpagesだけです。これらの機能を使いたくなければ、削除してもかまいません。
 
 ### `assets`
 

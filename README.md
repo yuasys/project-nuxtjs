@@ -41,7 +41,6 @@ More information about the usage of this directory in [the documentation](https:
 The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.  
 【訳】componentsディレクトリには、Vue.jsコンポーネントが含まれます。コンポーネントは、ページのさまざまな部分を構成し、再利用したり、ページやレイアウト、さらには他のコンポーネントにインポートしたりすることができます。
 
-
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).  
 【訳】このディレクトリの使い方については、[ドキュメント](https://nuxtjs.org/docs/2.x/directory-structure/components)を参照してください。
 
@@ -50,13 +49,14 @@ More information about the usage of this directory in [the documentation](https:
 Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.  
 【訳】レイアウトは、Nuxtアプリのルック＆フィールを変更したいときに大いに役立ちます。サイドバーを含めたり、モバイル用とデスクトップ用のレイアウトを区別したりできます。  
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).  
+【訳】このディレクトリの使い方については、[ドキュメント](https://nuxtjs.org/docs/2.x/directory-structure/layouts)を参照してください。
 
 ### `pages`
 
 This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).  
 
 ### `plugins`
 
